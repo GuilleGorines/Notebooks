@@ -1,5 +1,5 @@
 	Reject null hypothesis	W	clr	0.0	25.0	50.0	75.0	100.0	0.0.1	25.0.1	50.0.1	75.0.1	100.0.1
-sample-origin	-	-	-										
+sample-origin	-	-	-	Grown plant	Grown plant	Grown plant	Grown plant	Grown plant	Seed	Seed	Seed	Seed	Seed
 d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Erwiniaceae;g__Pantoea	True	511	4.3885105657671	1.0	1.0166550717535436	1.0817044285550996	1.3339142670816353	4.822223520476719	91.15400717703349	97.37062592559388	98.51004123987886	100.1211609208251	100.63996546275027
 d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Comamonadaceae;g__uncultured	True	509	-2.186126567463325	2.969744430727276	6.770941389075191	10.074819552861296	13.754450834488747	37.118226600985224	1.0	1.0	1.0	1.0	1.0
 d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Comamonadaceae;g__Variovorax	True	499	-1.5338581835058231	2.013929688240311	3.257949482609945	4.746756767624968	7.253803756557116	18.929435149908894	1.0	1.0	1.0	1.0	1.0
@@ -512,4 +512,3 @@ d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Hyphomicr
 d__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus	False	2	-0.3238844557358705	1.0	1.1592697361865745	1.2720357843091514	1.928623257244904	5.558600349339977	1.0	1.0	1.0	1.0	1.0
 d__Bacteria;p__Firmicutes;c__Negativicutes;o__Veillonellales-Selenomonadales;f__Sporomusaceae;g__Pelosinus	False	1	-0.39974128371993706	1.0	1.0	1.188813139320653	2.142844991296091	13.967763751127142	1.0	1.0	1.0	1.0	1.0
 d__Bacteria;p__Patescibacteria;c__Saccharimonadia;o__Saccharimonadales;f__Saccharimonadaceae;g__TM7a	False	1	-0.7169704696196412	1.0	1.2675907521922403	1.5994305278971457	3.6084326875853385	14.85592050786641	1.0	1.0	1.0	1.0	1.0
-Group				Grown plant	Grown plant	Grown plant	Grown plant	Grown plant	Seed	Seed	Seed	Seed	Seed
