@@ -1,28 +1,55 @@
-sample-id	plant	location	sample-origin	treatment
-C-1-Cistus	Cistus ladanifer	Valdemaqueda	Seed	Control
-C-2-Cistus	Cistus ladanifer	Andujar	Seed	Control
-C-3-Cistus	Cistus ladanifer	Badajoz	Seed	Control
-T120-1-Cistus	Cistus ladanifer	Valdemaqueda	Seed	120_10min
-T120-2-Cistus	Cistus ladanifer	Andujar	Seed	120_10min
-T120-3-Cistus	Cistus ladanifer	Badajoz	Seed	120_10min
-C-11-AND-PL-31-Cistus	Cistus ladanifer	Andujar	Grown plant	Control
-C-14-AND-PL-41-Cistus	Cistus ladanifer	Andujar	Grown plant	Control
-C-15-AND-PL-44-Cistus	Cistus ladanifer	Andujar	Grown plant	Control
-C-16-AND-PL-47-Cistus	Cistus ladanifer	Andujar	Grown plant	Control
-C-20-AND-PL-59-Cistus	Cistus ladanifer	Andujar	Grown plant	Control
-C-23-BAD-PL-68-Cistus	Cistus ladanifer	Badajoz	Grown plant	Control
-C-24-BAD-PL-71-Cistus	Cistus ladanifer	Badajoz	Grown plant	Control
-C-25-BAD-PL-74-Cistus	Cistus ladanifer	Badajoz	Grown plant	Control
-C-28-BAD-PL-83-Cistus	Cistus ladanifer	Badajoz	Grown plant	Control
-C-30-BAD-PL-89-Cistus	Cistus ladanifer	Badajoz	Grown plant	Control
-T120-11-AND-PL-214-Cistus	Cistus ladanifer	Andujar	Grown plant	120_10min
-T120-12-AND-PL-217-Cistus	Cistus ladanifer	Andujar	Grown plant	120_10min
-T120-16-AND-2-PL-229-Cistus	Cistus ladanifer	Andujar	Grown plant	120_10min
-T120-19-AND-PL-238-Cistus	Cistus ladanifer	Andujar	Grown plant	120_10min
-T120-21-BAD-PL-245-Cistus	Cistus ladanifer	Badajoz	Grown plant	120_10min
-T120-25-BAD-PL-257-Cistus	Cistus ladanifer	Badajoz	Grown plant	120_10min
-T120-28-BAD-PL-266-Cistus	Cistus ladanifer	Badajoz	Grown plant	120_10min
-T120-4-VALD-PL-192-Cistus	Cistus ladanifer	Valdemaqueda	Grown plant	120_10min
-T120-6-VALD-PL-198-Cistus	Cistus ladanifer	Valdemaqueda	Grown plant	120_10min
-T120-8-VALD-3-PL-205-Cistus	Cistus ladanifer	Valdemaqueda	Grown plant	120_10min
-
+sample-id	Species	Treatment	Affinity
+AL-C3-Cistus	Alyssum	Control	Type2
+AL-C5-Cistus	Alyssum	Control	Type2
+AL-C6-Cistus	Alyssum	Control	Type2
+AL-E3-Cistus	Alyssum	Exclusion	Type2
+AL-E5-Cistus	Alyssum	Exclusion	Type2
+AL-E6-Cistus	Alyssum	Exclusion	Type2
+AS-C1-Cistus	Asterolinon	Control	Type3
+AS-C3-Cistus	Asterolinon	Control	Type3
+AS-C5-Cistus	Asterolinon	Control	Type3
+AS-E1-Cistus	Asterolinon	Exclusion	Type3
+AS-E3-Cistus	Asterolinon	Exclusion	Type3
+AS-E5-Cistus	Asterolinon	Exclusion	Type3
+BR-C5	Bromus	Control	Type3
+BR-C6	Bromus	Control	Type3
+BR-C7	Bromus	Control	Type3
+BR-E5	Bromus	Exclusion	Type3
+BR-E6	Bromus	Exclusion	Type3
+BR-E7	Bromus	Exclusion	Type3
+CA-C2	Campanula	Control	Type1
+CA-C3	Campanula	Control	Type1
+CA-C5	Campanula	Control	Type1
+CH-C3	Chaenorhinum	Control	Type1
+CH-C6-7	Chaenorhinum	Control	Type1
+CH-C7-Cistus	Chaenorhinum	Control	Type1
+HC-C5	Hedypnois	Control	Type3
+HC-C6	Hedypnois	Control	Type3
+HC-C7	Hedypnois	Control	Type3
+HC-E5	Hedypnois	Exclusion	Type3
+HC-E6	Hedypnois	Exclusion	Type3
+HC-E7	Hedypnois	Exclusion	Type3
+HE-C2-Cistus	Helianthenum	Control	Type2
+HE-C3-Cistus	Helianthenum	Control	Type2
+HE-C4-Cistus	Helianthenum	Control	Type2
+HE-E2-Cistus	Helianthenum	Exclusion	Type2
+HE-E3-Cistus	Helianthenum	Exclusion	Type2
+HE-E4-Cistus	Helianthenum	Exclusion	Type2
+PA-C2-Cistus	Parentulia	Control	Type3
+PA-C3-Cistus	Parentulia	Control	Type3
+PA-C7-Cistus	Parentulia	Control	Type3
+PA-E2-Cistus	Parentulia	Exclusion	Type3
+PA-E3-Cistus	Parentulia	Exclusion	Type3
+PA-E7-Cistus	Parentulia	Exclusion	Type3
+PL-C1-Cistus	Plantag	Control	Type2
+PL-C3-Cistus	Plantag	Control	Type2
+PL-C4asterisco-Cistus	Plantag	Control	Type2
+PL-E1-Cistus	Plantag	Exclusion	Type2
+PL-E3-Cistus	Plantag	Exclusion	Type2
+PL-E4-Cistus	Plantag	Exclusion	Type2
+RS-FUERA	Reseda	Control	Type1
+RS-P1	Reseda	Other	Type1
+RS-P2	Reseda	Other	Type1
+ZI-C5	Ziziphora	Control	Type2
+ZI-E5	Ziziphora	Exclusion	Type2
+ZI-E7	Ziziphora	Exclusion	Type2
